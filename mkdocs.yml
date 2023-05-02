@@ -1,0 +1,4 @@
+site_name: Health Tracker Documentation
+markdown_extensions:
+  - attr_list
+  - md_in_html
